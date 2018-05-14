@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+deploy:
+  type:git
+  repository:git@github.com:htmlzhoyan/zy.github.io.git
+  branch:master
